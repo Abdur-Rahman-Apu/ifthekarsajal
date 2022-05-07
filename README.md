@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ifthekar Sajal
-###### | Competitive programmer | Web Developer & WordPress Elementor Expert | WooCommerce & Shopify Expert | | Programmer | Freelancer | | IT Specialist | Software Engineer | Executive IT |
+#### | Competitive programmer | Web Developer & WordPress Elementor Expert | WooCommerce & Shopify Expert | | Programmer | Freelancer | | IT Specialist | Software Engineer | Executive IT |
 ![| Competitive programmer | Web Developer & WordPress Elementor Expert | WooCommerce & Shopify Expert | | Programmer | Freelancer | | IT Specialist | Software Engineer | Executive IT |](https://media-exp1.licdn.com/dms/image/C5616AQEU0yuRXp40oQ/profile-displaybackgroundimage-shrink_200_800/0/1634386406055?e=1657152000&v=beta&t=nckOjX8aTUPf_VrVWFdvGdRYXIM-aGFmAiSDVq9nW0M)
 
 Hey! I 'm Ifthekar Sajal. I have 5 years of experience in Web Development such as HTML, CSS, Bootstrap, JavaScript, Php & MySQL, WordPress CMS & Laravel Framework. 
@@ -13,16 +13,3 @@ Skills: LARAVEL /PHP / REACT / JS / BOOTSTRAP / CSS /HTML
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/ifthekarsajal)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ifthekarsajal)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ifthekarsajal&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/ifthekarsajal)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/ifthekarsajal)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/ifthekarsajal)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/ifthekarsajal)  
