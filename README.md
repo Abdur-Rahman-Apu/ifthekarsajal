@@ -4,7 +4,7 @@
 
 Hey! I 'm Ifthekar Sajal. I have 5 years of experience in Web Development such as HTML, CSS, Bootstrap, JavaScript, Php & MySQL, WordPress CMS & Laravel Framework. 
 
-Skills: LARAVEL /PHP / REACT / JS / BOOTSTRAP / CSS /HTML 
+Skills: C# / SQL Server / Asp.net / JS / BOOTSTRAP / CSS /HTML 
 
 - 🔭 I’m currently working on APS GROUP As a Senior IT Executive 
 
