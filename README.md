@@ -2,7 +2,7 @@
 #### | Competitive programmer | Web Developer & WordPress Elementor Expert | WooCommerce & Shopify Expert | | Programmer | Freelancer | | IT Specialist | Software Engineer | Executive IT |
 ![| Competitive programmer | Web Developer & WordPress Elementor Expert | WooCommerce & Shopify Expert | | Programmer | Freelancer | | IT Specialist | Software Engineer | Executive IT |](https://media-exp1.licdn.com/dms/image/C5616AQEU0yuRXp40oQ/profile-displaybackgroundimage-shrink_200_800/0/1634386406055?e=1657152000&v=beta&t=nckOjX8aTUPf_VrVWFdvGdRYXIM-aGFmAiSDVq9nW0M)
 
-Hey! I 'm Ifthekar Sajal. I have 5 years of experience in Web Development such as HTML, CSS, Bootstrap, JavaScript, Php & MySQL, WordPress CMS & Laravel Framework. 
+Hey! I 'm Ifthekar Sajal. I have 5 years of experience in Web Development such as HTML, CSS, Bootstrap, JavaScript, WordPress CMS, C#,SQL Server, Asp.net Framework. 
 
 Skills: C# / SQL Server / Asp.net / JS / BOOTSTRAP / CSS /HTML 
 
