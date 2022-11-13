@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ifthekar Sajal</h1>
-<h4 align="center">A passionate  Competitive programmer | Web Developer | Tech Enthusiast | Love to write code | Frontend Developer | IT Specialist | from Dhaka, Bangladesh</h4>
+<style color:"#FFC312"><h4 align="center">A passionate  Competitive programmer | Web Developer | Tech Enthusiast | Love to write code | Frontend Developer | IT Specialist | from Dhaka, Bangladesh</h4></style>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifthekarsajal&label=Profile%20views&color=0e75b6&style=flat" alt="ifthekarsajal" /> </p>
 
@@ -41,6 +41,9 @@
 <p><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=ifthekarsajal&show_icons=true&locale=en&layout=compact" alt="ifthekarsajal" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifthekarsajal&show_icons=true&locale=en" alt="ifthekarsajal" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifthekarsajal&" alt="ifthekarsajal" /></p>
+
+<br>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ifthekarsajal&hide_border=true&area=true&point=transparent&theme=react-dark">
 
 
 
