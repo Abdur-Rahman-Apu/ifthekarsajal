@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Hi!%20%F0%9F%99%8F%3BPI'M Ifthekar Sajal%20%F0%9F%99%8F%3B FRONTEND WEB DEVELOPER%20Competitive Programmer%20%F0%9F%99%8F%3BV%20%F0%9F%99%8F%3BSat%20Sri%20%20%F0%9F%99%8F%3BAssalam%20Alaikum%20%F0%9F%99%8F%3B">
+<br>
+<img src="https://views.whatilearened.today/views/github/ifthekarsajal/ifthekarsajal.svg?cache=remove">
+<br>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Ifthekar Sajal</h1>
 <style color:"#FFC312"><h4 align="center">A passionate  Competitive programmer | Web Developer | Tech Enthusiast | Love to write code | Frontend Developer | IT Specialist | from Dhaka, Bangladesh</h4></style>
 
