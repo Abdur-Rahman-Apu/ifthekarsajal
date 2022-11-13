@@ -45,8 +45,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifthekarsajal&show_icons=true&locale=en&layout=compact" alt="ifthekarsajal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifthekarsajal&show_icons=true&locale=en" alt="ifthekarsajal" /></p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ifthekarsajal&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ifthekarsajal)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ifthekarsajal)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifthekarsajal&" alt="ifthekarsajal" /></p>
+
 
 
