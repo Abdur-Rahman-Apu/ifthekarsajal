@@ -42,7 +42,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifthekarsajal&show_icons=true&locale=en" alt="ifthekarsajal" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifthekarsajal&" alt="ifthekarsajal" /></p>
 
-<br>
+
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ifthekarsajal&hide_border=true&area=true&point=transparent&theme=react-dark">
 
 
