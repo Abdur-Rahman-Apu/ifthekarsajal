@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifthekarsajal&label=Profile%20views&color=0e75b6&style=flat" alt="ifthekarsajal" /> </p>
 
-p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifthekarsajal&show_icons=true&count_private=true&theme=react" alt="ifthekarsajal" /></a>&#8198;</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifthekarsajal&show_icons=true&count_private=true&theme=react" alt="ifthekarsajal" /></a>&#8198;</p>
 
 
 
