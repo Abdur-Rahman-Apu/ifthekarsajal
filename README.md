@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ifthekar Sajal</h1>
-<h4 align="center"color="#FFC312">A passionate  Competitive programmer | Web Developer | Tech Enthusiast | Love to write code | Frontend Developer | IT Specialist | from Dhaka, Bangladesh</h4>
+<style color:"#FFC312"><h4 align="center">A passionate  Competitive programmer | Web Developer | Tech Enthusiast | Love to write code | Frontend Developer | IT Specialist | from Dhaka, Bangladesh</h4></style>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifthekarsajal&label=Profile%20views&color=0e75b6&style=flat" alt="ifthekarsajal" /> </p>
 
