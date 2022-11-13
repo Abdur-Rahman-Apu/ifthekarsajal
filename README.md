@@ -43,7 +43,7 @@
 
 <div>
 <a ><img width=422 src="https://github-readme-stats.vercel.app/api?username=ifthekarsajal&show_icons=true&count_private=true&theme=react"></a>&#8198;
-<img  alt="GIF" src="https://github.com/ifthekarsajal/ifthekarsajal/blob/main/code.gif" width="311" height="200" />
+
 <a ><img width=422 src="https://github-readme-streak-stats.herokuapp.com/?user=ifthekarsajal&theme=react"></a>
 </div>
 
